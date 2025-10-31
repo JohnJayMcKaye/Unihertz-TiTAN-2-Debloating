@@ -1,3 +1,5 @@
+Install ADB and activate USB-Debuging
+
 Uninstall with
 
 adb shell pm uninstall --user 0 com.google.android.apps.youtube.music 
